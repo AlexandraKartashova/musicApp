@@ -1,0 +1,44 @@
+.signup{
+    text-align: center;
+}
+
+.field-wrap {
+    position:relative;
+    margin-bottom:40px;
+}
+
+.button {
+    border:0;
+    outline:none;
+    border-radius:0;
+    padding:15px 0;
+    font-size:2rem;
+    font-weight:bold;
+    text-transform:uppercase;
+    letter-spacing:.1em;
+    background:main;
+    color:white;
+    transition:all.5s ease;
+    -webkit-appearance: none;
+}
+
+.button-block {
+    display:block;
+    width:100%;
+    color:lime;
+}
+
+.form {
+    padding: 40px;
+    max-width:600px;
+    margin:40px auto;
+}
+
+label {
+    position:left;
+    transform:translateY(6px);
+    left:13px;
+    transition:all 0.25s ease;
+    pointer-events: none;
+    font-size:22px;
+}

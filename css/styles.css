@@ -25,13 +25,7 @@
 .button-block {
     display:block;
     width:100%;
-    color:lime;
-}
-
-.form {
-    padding: 40px;
-    max-width:600px;
-    margin:40px auto;
+    color:limen;
 }
 
 label {
